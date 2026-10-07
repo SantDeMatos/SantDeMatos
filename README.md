@@ -63,16 +63,7 @@ Também trabalho com **APIs REST**, **microsserviços**, **Programação Orienta
 
 ---
 
-## 🚀 Projetos em destaque
-
-<!-- Substitua pelos seus melhores projetos (2 a 4). Exemplo de formato: -->
-
-- **[Nome do projeto](https://github.com/seu-usuario/seu-repositorio)**: uma linha explicando o problema que resolve e a stack usada.
-- **[Nome do projeto](https://github.com/seu-usuario/seu-repositorio)**: uma linha explicando o problema que resolve e a stack usada.
-
----
-
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-[![E-mail](https://img.shields.io/badge/-E--mail-D14836?logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/matheus-santana-de-matos/))
+[![E-mail](https://img.shields.io/badge/-E--mail-D14836?logo=gmail&logoColor=white)](mailto:santdematos@gmail.com)
