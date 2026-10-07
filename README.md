@@ -65,5 +65,5 @@ Também trabalho com **APIs REST**, **microsserviços**, **Programação Orienta
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/matheus-santana-de-matos/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santana-de-matos/)
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836?logo=gmail&logoColor=white)](mailto:santdematos@gmail.com)
